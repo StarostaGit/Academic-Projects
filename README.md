@@ -1,2 +1,2 @@
 # Academic Projects
-Some of the projects that I've done for various programming-connected subjects at my University
+Some of the projects I've done for various classes at my University
