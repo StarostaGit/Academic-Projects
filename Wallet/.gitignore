@@ -1,0 +1,6 @@
+# ignore CLion project files
+cmake-*/
+.idea/
+
+# executables
+*.o
